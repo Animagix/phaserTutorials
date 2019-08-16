@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Animagix/phaserTutorials.git"
+    "url": "git+git@github.com:Animagix/phaserTutorials.git"
   },
   "keywords": [
     "phaser"
